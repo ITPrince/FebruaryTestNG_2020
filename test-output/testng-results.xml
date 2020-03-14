@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35731" started-at="2020-03-14T00:19:41Z" finished-at="2020-03-14T00:20:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35731" started-at="2020-03-14T00:19:41Z" finished-at="2020-03-14T00:20:17Z">
+      <class name="com.hubspot.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hubspot.tests.LoginPageTest@26b894bd]" name="setUp" is-config="true" duration-ms="9359" started-at="2020-03-14T00:19:41Z" finished-at="2020-03-14T00:19:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTitle()[pri:1, instance:com.hubspot.tests.LoginPageTest@26b894bd]" name="getTitle" duration-ms="196" started-at="2020-03-14T00:19:51Z" description="Hubspot Login get title" finished-at="2020-03-14T00:19:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hubspot.tests.LoginPageTest@26b894bd]" name="tearDown" is-config="true" duration-ms="145" started-at="2020-03-14T00:19:51Z" finished-at="2020-03-14T00:19:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hubspot.tests.LoginPageTest@26b894bd]" name="setUp" is-config="true" duration-ms="7270" started-at="2020-03-14T00:19:51Z" finished-at="2020-03-14T00:19:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest1()[pri:2, instance:com.hubspot.tests.LoginPageTest@26b894bd]" name="loginTest1" duration-ms="1210" started-at="2020-03-14T00:19:59Z" description="login test using correct username and correct password" finished-at="2020-03-14T00:20:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hubspot.tests.LoginPageTest@26b894bd]" name="tearDown" is-config="true" duration-ms="191" started-at="2020-03-14T00:20:00Z" finished-at="2020-03-14T00:20:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hubspot.tests.LoginPageTest@26b894bd]" name="setUp" is-config="true" duration-ms="7221" started-at="2020-03-14T00:20:00Z" finished-at="2020-03-14T00:20:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest2()[pri:3, instance:com.hubspot.tests.LoginPageTest@26b894bd]" name="loginTest2" duration-ms="1204" started-at="2020-03-14T00:20:07Z" description="login test using correct username and incorrect password" finished-at="2020-03-14T00:20:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hubspot.tests.LoginPageTest@26b894bd]" name="tearDown" is-config="true" duration-ms="176" started-at="2020-03-14T00:20:08Z" finished-at="2020-03-14T00:20:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hubspot.tests.LoginPageTest@26b894bd]" name="setUp" is-config="true" duration-ms="7152" started-at="2020-03-14T00:20:09Z" finished-at="2020-03-14T00:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest3()[pri:4, instance:com.hubspot.tests.LoginPageTest@26b894bd]" name="loginTest3" duration-ms="966" started-at="2020-03-14T00:20:16Z" description="login test using incorrect username and correct password" finished-at="2020-03-14T00:20:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hubspot.tests.LoginPageTest@26b894bd]" name="tearDown" is-config="true" duration-ms="141" started-at="2020-03-14T00:20:17Z" finished-at="2020-03-14T00:20:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hubspot.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
